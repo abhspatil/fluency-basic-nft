@@ -15,3 +15,4 @@ How to run:
 
 Flowchart
 
+![alt text](https://github.com/abhspatil/fluency-basic-nft/blob/master/images/flowchart.png?raw=true)
