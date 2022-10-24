@@ -11,3 +11,7 @@ How to run:
   npx hardhat compile
   
   npx hardhat run deploy.js --network goerli
+
+
+Flowchart
+
